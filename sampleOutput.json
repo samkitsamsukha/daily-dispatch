@@ -1,0 +1,206 @@
+{
+	"status": "ok",
+	"totalResults": 35,
+	"articles": [
+		{
+			"source": { "id": "the-hill", "name": "The Hill" },
+			"author": "REBECCA BOONE, Associated Press",
+			"title": "Idaho teen faces federal terrorism charge. Prosecutors say he planned to attack a church for ISIS - The Hill",
+			"description": "BOISE, Idaho (AP) — An Idaho teenager is charged with attempting to providing material support to the terrorist group ISIS after prosecutors said he planned to carry out an attack on a Coeur d’Alene church. Alexander Scott Mercurio, 18, was arrested Saturday,…",
+			"url": "https://thehill.com/homenews/ap/ap-u-s-news/ap-idaho-teen-faces-federal-terrorism-charge-prosecutors-say-he-planned-to-attack-a-church-for-isis/",
+			"urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/cropped-favicon-512px-1.png?strip=1",
+			"publishedAt": "2024-04-09T16:28:00Z",
+			"content": "BOISE, Idaho (AP) An Idaho teenager is charged with attempting to providing material support to the terrorist group ISIS after prosecutors said he planned to carry out an attack on a Coeur d’Alene ch… [+3041 chars]"
+		},
+		{
+			"source": { "id": null, "name": "[Removed]" },
+			"author": null,
+			"title": "[Removed]",
+			"description": "[Removed]",
+			"url": "https://removed.com",
+			"urlToImage": null,
+			"publishedAt": "1970-01-01T00:00:00Z",
+			"content": "[Removed]"
+		},
+		{
+			"source": { "id": "fox-news", "name": "Fox News" },
+			"author": "Lauryn Overhultz",
+			"title": "Morgan Wallen's Nashville arrest not linked to ex girlfriend getting married: source - Fox News",
+			"description": "Morgan Wallen's alleged chair throwing incident at a Nashville bar Sunday night had no connection to his ex-girlfriend's surprise elopement, a source told Fox News Digital.",
+			"url": "https://www.foxnews.com/entertainment/morgan-wallens-nashville-arrest-not-linked-ex-girlfriend-getting-married-source",
+			"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Morgan_Wallen_ex_girlfriend.jpg",
+			"publishedAt": "2024-04-09T16:05:00Z",
+			"content": "Morgan Wallen's arrest Sunday night did not have anything to do with his ex-girlfriend's surprise elopement, Fox News Digital can confirm.\r\nThere is \"zero accuracy\" in the idea that Wallen allegedly … [+2897 chars]"
+		},
+		{
+			"source": { "id": "the-washington-post", "name": "The Washington Post" },
+			"author": "Gene Wang",
+			"title": "Zach Edey faded for a stretch, costing Purdue in loss to Connecticut - The Washington Post",
+			"description": "Zach Edey finished with 37 points and 10 rebounds, but he couldn’t do it alone against Connecticut in the NCAA tournament championship game.",
+			"url": "https://www.washingtonpost.com/sports/2024/04/09/purdue-ncaa-final-zach-edey/",
+			"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SB2RXT5NY5GTJFW3BNV4EXN5VU.jpg&w=1440",
+			"publishedAt": "2024-04-09T15:58:58Z",
+			"content": "GLENDALE, Ariz. Early in the second half of Monday nights NCAA mens basketball tournament championship game between a pair of No. 1 seeds, Purdues Zach Edey leaped for a one-handed putback dunk again… [+4647 chars]"
+		},
+		{
+			"source": { "id": "the-washington-post", "name": "The Washington Post" },
+			"author": "Kim Bellware",
+			"title": "James and Jennifer Crumbley, Oxford school shooter’s parents, sentenced - The Washington Post",
+			"description": "James and Jennifer Crumbley were each convicted on four counts of involuntary manslaughter for the Michigan school shooting committed by their son, Ethan Crumbley.",
+			"url": "https://www.washingtonpost.com/nation/2024/04/09/jennifer-james-crumbley-sentencing-school-shooting/",
+			"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QD65ERDXS3OMQTIOK4TRT77GCY.jpg&w=1440",
+			"publishedAt": "2024-04-09T15:24:43Z",
+			"content": "James and Jennifer Crumbley, the parents of the Oxford, Mich., school shooter, were sentenced Tuesday to 10 to 15 years each after being convicted of involuntary manslaughter in separate trials.\r\nThe… [+765 chars]"
+		},
+		{
+			"source": { "id": null, "name": "MLB.com" },
+			"author": "MLB.com",
+			"title": "Total solar eclipse highlights Guardians' home opener - MLB.com",
+			"description": null,
+			"url": "https://www.mlb.com/news/total-solar-eclipse-highlights-guardians-home-opener",
+			"urlToImage": null,
+			"publishedAt": "2024-04-09T15:24:02Z",
+			"content": null
+		},
+		{
+			"source": { "id": null, "name": "Miami Herald" },
+			"author": "Sara Vallone",
+			"title": "Are Gwen Stefani and Blake Shelton getting a divorce? Gwen Stefani speaks out - Yahoo Entertainment",
+			"description": "Gwen Stefani is talking about her insecurities and the divorce speculation that’s been swirling around the internet.",
+			"url": "https://www.miamiherald.com/news/nation-world/national/article287513880.html",
+			"urlToImage": "https://media.zenfs.com/en/miami_herald_mcclatchy_975/44e308751fbfa21b8cc2471d32e7eac5",
+			"publishedAt": "2024-04-09T15:10:28Z",
+			"content": "Gwen Stefani is addressing the rumors swirling around the internet. Are she and Blake Shelton getting a divorce after three years of marriage?\r\nStefani and Shelton met while judging The Voice togethe… [+2136 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Variety" },
+			"author": "Kate Aurthur",
+			"title": "Sylvester Stallone Accused of Creating ‘Toxic Environment’ on Atlanta Set of ‘Tulsa King’ - Variety",
+			"description": "Sylvester Stallone has been accused of creating a 'toxic environment' on the Atlanta set of 'Tulsa King.' The star XXX the allegations.",
+			"url": "https://variety.com/2024/tv/news/sylvester-stallone-tulsa-king-mistreating-extras-1235964689/",
+			"urlToImage": "https://variety.com/wp-content/uploads/2023/06/PHOTO-1-Dwight-In-His-Suit-1.jpeg?w=1000&h=563&crop=1",
+			"publishedAt": "2024-04-09T15:08:00Z",
+			"content": "Sylvester Stallone has been accused of creating a “toxic environment” on the Atlanta set of the Paramount+ series “Tulsa King” by making disparaging comments about background actors, among other alle… [+2960 chars]"
+		},
+		{
+			"source": { "id": "ign", "name": "IGN" },
+			"author": "Luke Reilly",
+			"title": "Children of the Sun Review - IGN",
+			"description": "This slick and shrewd supernatural sniping game is packed with satisfying spatial problems to solve (and shoot), but it's not significantly satisfying after the first time around.",
+			"url": "https://www.ign.com/articles/children-of-the-sun-review",
+			"urlToImage": "https://assets-prd.ignimgs.com/2024/04/09/childrenofthesun-blogroll-1712646738294.jpg?width=1280",
+			"publishedAt": "2024-04-09T15:00:30Z",
+			"content": "Children of the Sun bills itself as a tactical third-person puzzle-shooter, but not all of those descriptors are equally relevant. Discard any attachment you have to the idea of it being a tactical t… [+6795 chars]"
+		},
+		{
+			"source": { "id": "techcrunch", "name": "TechCrunch" },
+			"author": "Sarah Perez",
+			"title": "WordPress.com owner Automattic acquires multi-service messaging app Beeper for $125M - TechCrunch",
+			"description": "The deal, which was for $125 million according to sources close to the matter, is Automattic's second acquisition of a cross-platform messaging solution.",
+			"url": "https://techcrunch.com/2024/04/09/wordpress-com-owner-automattic-acquires-multi-service-messaging-app-beeper-for-125m/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/01-Mobile.png?resize=1200,675",
+			"publishedAt": "2024-04-09T14:49:54Z",
+			"content": "WordPress.com owner Automattic is acquiring Beeper, the company behind the iMessage-on-Android solution that was referenced by the Department of Justice in its antitrust lawsuit against Apple. The de… [+6164 chars]"
+		},
+		{
+			"source": { "id": "cbs-news", "name": "CBS News" },
+			"author": "Aimee Picchi",
+			"title": "Biden's new student loan forgiveness plan could help 30 million borrowers. Here's who would qualify. - CBS News",
+			"description": "President Joe Biden unveiled a new plan that comes after the Supreme Court ruled against his previous debt-forgiveness program.",
+			"url": "https://www.cbsnews.com/news/student-loan-forgiveness-new-biden-plan-30-million-who-qualifies-cbs-news-explains/",
+			"urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/08/325f85e8-5bbe-467f-ae92-dc8e4c336f64/thumbnail/1200x630/9d66d7e107475d98afdac88fed548f57/cbsn-fusion-breaking-down-biden-new-student-debt-relief-plans-thumbnail.jpg?v=95af720165ffeea582866d60dd9b1b18",
+			"publishedAt": "2024-04-09T14:48:35Z",
+			"content": "President Joe Biden once again is trying to deliver widespread student debt forgiveness, with a new plan unveiled on Monday that could help about 30 million borrowers erase some or all of their colle… [+6586 chars]"
+		},
+		{
+			"source": { "id": null, "name": "WLWT Cincinnati" },
+			"author": "Emily Sanderson",
+			"title": "$150000 winning Powerball ticket sold in Ohio - Cincinnati - WLWT Cincinnati",
+			"description": "While it wasn't the top prize, one lucky winner in Ohio scored big off the Powerball jackpot drawing over the weekend.",
+			"url": "https://www.wlwt.com/article/winning-powerball-ticket-sold-in-ohio/60440718",
+			"urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wlwt/37350856-37350856.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+			"publishedAt": "2024-04-09T14:46:00Z",
+			"content": "COLUMBUS, Ohio —While it wasn't the top prize, one lucky winner in Ohio scored big off the Powerball jackpot drawing over the weekend.\r\nOfficials with the Ohio Lottery announced someone won $150,000 … [+420 chars]"
+		},
+		{
+			"source": { "id": null, "name": "[Removed]" },
+			"author": null,
+			"title": "[Removed]",
+			"description": "[Removed]",
+			"url": "https://removed.com",
+			"urlToImage": null,
+			"publishedAt": "1970-01-01T00:00:00Z",
+			"content": "[Removed]"
+		},
+		{
+			"source": { "id": null, "name": "Yahoo Entertainment" },
+			"author": "Daniel Howley",
+			"title": "Apple is aiming the Vision Pro at enterprises - Yahoo Finance",
+			"description": "Apple is showing off the Vision Pro's enterprise chops as it looks to attract business customers.",
+			"url": "https://finance.yahoo.com/news/apple-is-aiming-the-vision-pro-at-enterprises-140056694.html",
+			"urlToImage": "https://s.yimg.com/ny/api/res/1.2/8jwrcG9akWnvIC06DCJqlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/ca94caf0-c764-11ee-aff7-b46f501bc88b",
+			"publishedAt": "2024-04-09T14:00:56Z",
+			"content": "Its been just over two months since Apple (APPL) launched its Vision Pro AR/VR headset. At $3,500, the device, which Apple calls a spatial computer, is a pricey proposition for many consumers. But th… [+4905 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Yahoo Entertainment" },
+			"author": "Yahoo Sports Staff",
+			"title": "2024 NFL Draft primers hub: All 32 teams' needs, picks, best fits and more - Yahoo Sports",
+			"description": "What selections does your team have? What areas should it address? Who's the dream fantasy pick? We cover all that and more for every franchise right here.",
+			"url": "https://sports.yahoo.com/2024-nfl-draft-primers-hub-32-teams-32-needs-picks-best-fits-and-more-140034806.html",
+			"urlToImage": "https://s.yimg.com/ny/api/res/1.2/XnIKdpmCJRS6w0OwEanDwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/77109710-f5d1-11ee-abf7-c9f20b9a7b39",
+			"publishedAt": "2024-04-09T14:00:34Z",
+			"content": "We've made it past the NFL scouting combine. Free agency has opened and (mostly) petered out. That means draft needs are set.\r\nSo what does your team need? What picks does it have? Who are the best f… [+4384 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Yahoo Entertainment" },
+			"author": "Alexandra Canal",
+			"title": "Stock market today: US stocks edge higher ahead of CPI inflation data - Yahoo Finance",
+			"description": "Investors are biding their time until the key March CPI inflation report lands as they wrestle with uncertainty around interest rates.",
+			"url": "https://finance.yahoo.com/news/live/stock-market-today-us-stocks-turn-lower-ahead-of-cpi-inflation-data-144359503.html",
+			"urlToImage": "https://s.yimg.com/ny/api/res/1.2/ltrLu8ImFk_hn8RvJor2lQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTU-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/2edc47c0-165a-11ee-a7fd-5ed339d198fe",
+			"publishedAt": "2024-04-09T13:33:00Z",
+			"content": "US stocks turned lower on Tuesday as investors bide their time until a key inflation report lands and potentially sheds light on the path of interest rates.\r\nBy mid-morning trading, all three major i… [+5970 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BBC News" },
+			"author": null,
+			"title": "Israel's Gaza withdrawal hints at what comes next - BBC.com",
+			"description": "The unexpected pull-out could mark a new phase in the months-long war.",
+			"url": "https://www.bbc.com/news/world-middle-east-68768948",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CA9E/production/_133107815_troopsgazartr6512ec07fbf2ecb33788d422d593140f7322df330_313_6000_33751000x563.jpg",
+			"publishedAt": "2024-04-09T13:11:18Z",
+			"content": null
+		},
+		{
+			"source": { "id": "usa-today", "name": "USA Today" },
+			"author": "Sarah Al-Arshani",
+			"title": "Brian Dorsey execution in Missouri: Death row inmate's clemency denied - USA TODAY",
+			"description": "Brian Dorsey's execution is set to happen in Missouri. Missouri Gov. Mike Parson denied the death row inmate's request for clemency.",
+			"url": "https://www.usatoday.com/story/news/nation/2024/04/09/brian-dorsey-missouri-execution-death-row/73257958007/",
+			"urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/09/USAT/73258540007-2141955171.jpg?crop=2340,1316,x0,y857&width=2340&height=1316&format=pjpg&auto=webp",
+			"publishedAt": "2024-04-09T12:53:21Z",
+			"content": "Missouri Gov. Mike Parson denied a last-minute effort to stay the execution of Brian Dorsey, a man convicted of killing his cousin and her husband in 2006.\r\nParson said the state plans to carry out t… [+2602 chars]"
+		},
+		{
+			"source": { "id": "associated-press", "name": "Associated Press" },
+			"author": null,
+			"title": "Eclipse visitors in New England faced bumper-to-bumper traffic - The Associated Press",
+			"description": "Thousands of visitors to northern New England communities in the path of the total solar eclipse were told to pack their patience for the trip. Some needed it for up to 12 hours after the event started, inching their way back home on packed interstates and se…",
+			"url": "https://apnews.com/article/solar-eclipse-traffic-jams-5fa6ac695a3a53a90b754b97c4719d31",
+			"urlToImage": "https://dims.apnews.com/dims4/default/5f208d5/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2Fda%2Fc18fdc4d9d7f21dbbb1962da2cfb%2F1798bd38cca649519f0c2e7c840d4c09",
+			"publishedAt": "2024-04-09T12:43:00Z",
+			"content": "FRANCONIA, N.H. (AP) Thousands of visitors to northern New England communities in the path of the total solar eclipse were told to pack their patience for the trip. In some areas, they needed it for … [+1719 chars]"
+		},
+		{
+			"source": { "id": null, "name": "BBC News" },
+			"author": null,
+			"title": "European court rules human rights violated by climate inaction - BBC.com",
+			"description": "\"We are not made to sit in a rocking chair and knit,\" said one of the older Swiss women who won.",
+			"url": "https://www.bbc.com/news/science-environment-68768598",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5461/production/_133110612_climate_seniors_2_epa.jpg",
+			"publishedAt": "2024-04-09T12:39:12Z",
+			"content": null
+		}
+	]
+}
