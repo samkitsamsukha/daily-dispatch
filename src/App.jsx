@@ -20,7 +20,7 @@ export default class App extends Component {
           <Navbar />
           <Routes>
             {/* Adding the key facilitates remounting of category specific news */}
-            <Route exact path="*" element={<Navigate to="/"/>}/>
+            <Route exact path="*" element={<Navigate to="/daily-dispatch/"/>}/>
             <Route exact path='/' element={<News apiKey={this.apiKey} key="general" pageSize={12} country="in" category="general"/>}/>
             <Route exact path='/business' element={<News apiKey={this.apiKey} key="business" pageSize={12} country="in" category="business"/>}/>
             <Route exact path='/entertainment' element={<News apiKey={this.apiKey} key="entertainment" pageSize={12} country="in" category="entertainment"/>} />
