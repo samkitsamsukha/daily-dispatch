@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import NewsItem from "./NewsItem";
 import Spinner from './Spinner'
 import PropTypes from 'prop-types'
+// import InfiniteScroll from "react-infinite-scroll-component";
 
 export class News extends Component {
 
@@ -16,9 +17,14 @@ export class News extends Component {
 		pageSize: PropTypes.number,
 		category: PropTypes.string
 	}
+
+	capitalizeFirst = (string) => {
+		return string.charAt(0).toUpperCase() + string.slice(1);
+	}
+
 	// Constructor to initialize the component's state
-	constructor() {
-		super();
+	constructor(props) {
+		super(props);
 		// Log a message when the constructor is called
 		// console.log("Hello, I am constructor from new component");
 		// Initialize state with empty articles array, loading set to true, and page set to 1
@@ -27,13 +33,14 @@ export class News extends Component {
 			loading: false,
 			page: 1,
 		};
+		document.title = `${this.capitalizeFirst(this.props.category)} News - Daily Dispatch`;
 	}
 
 	// Lifecycle method: Runs after the component is rendered to the DOM
 	async componentDidMount() {
 		// Fetch news data from the API
 		let url =
-			`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=385735f1ff6f4f2d8991fe9eef5abbf2&page=1&pagesize=${this.props.pageSize}`;
+			`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=1&pagesize=${this.props.pageSize}`;
 		this.setState({loading: true});
 		let data = await fetch(url);
 		// Parse the response into JSON format
@@ -58,7 +65,7 @@ export class News extends Component {
     	else{
       		// Construct URL for the next page of news
       		let url =
-				`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=385735f1ff6f4f2d8991fe9eef5abbf2&page=${this.state.page + 1}&pagesize=${this.props.pageSize}`;
+				`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page + 1}&pagesize=${this.props.pageSize}`;
 			this.setState({loading: true});
 			// Fetch news data for the next page
 			let data = await fetch(url);
@@ -81,7 +88,7 @@ export class News extends Component {
 		console.log("prev");
     	// Construct URL for the previous page of news
     	let url =
-			`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=385735f1ff6f4f2d8991fe9eef5abbf2&page=${this.state.page - 1}&pagesize=${this.props.pageSize}`;
+			`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page - 1}&pagesize=${this.props.pageSize}`;
 		this.setState({loading: true});
 		// Fetch news data for the previous page
 		let data = await fetch(url);
@@ -101,7 +108,7 @@ export class News extends Component {
 	render() {
 		return (
 			<div className="container my-3 ">
-				<h1 className="my-3 text-center">Daily Dispatch: Top headlines</h1>
+				<h1 className="text-center" style={{margin: '90px 0px 40px 0px'}}>Daily Dispatch: Top Headlines of {this.capitalizeFirst(this.props.category)} News</h1>
 				{this.state.loading && <Spinner />}
 				<div className="row">
 					{/* Map over the articles array and render a NewsItem component for each article */}

@@ -6,7 +6,7 @@ export class Navbar extends Component {
     render() {
         return (
             <div>
-                <nav className="navbar navbar-expand-lg bg-dark navbar-dark">
+                <nav className="navbar fixed-top navbar-expand-lg bg-dark navbar-dark">
                     <div className="container-fluid">
                         <span className="material-symbols-outlined mx-3">newspaper</span>
                         <Link className="navbar-brand" to="/"><strong>Daily Dispatch</strong></Link>
@@ -17,7 +17,6 @@ export class Navbar extends Component {
                             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                                 <li className="nav-item">
                                     <Link className="nav-link active d-flex mx-2" aria-current="page" to="/">
-                                        <span className="material-symbols-outlined mx-1">home</span>
                                         <span>Home</span>
                                     </Link>
                                 </li>

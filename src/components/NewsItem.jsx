@@ -9,7 +9,7 @@ export class NewsItem extends Component {
           <img src={imageUrl} height='210px' className="card-img-top" alt="..." />
             <div className="card-body">
               <h5 className="card-title">
-                {title} <span class="badge text-bg-danger">{source}</span>
+                {title} <span className="badge text-bg-danger">{source}</span>
               </h5>
               <p className="card-text">{description}... </p>
               
