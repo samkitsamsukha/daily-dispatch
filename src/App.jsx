@@ -19,16 +19,14 @@ export default class App extends Component {
         <Router>
           <Navbar />
           <Routes>
-            {/* Adding the key facilitates remounting of category specific news */}
-            <Route exact path="*" element={<Navigate to="/daily-dispatch/"/>}/>
-            <Route exact path='/' element={<News apiKey={this.apiKey} key="general" pageSize={12} country="in" category="general"/>}/>
-            <Route exact path='/business' element={<News apiKey={this.apiKey} key="business" pageSize={12} country="in" category="business"/>}/>
-            <Route exact path='/entertainment' element={<News apiKey={this.apiKey} key="entertainment" pageSize={12} country="in" category="entertainment"/>} />
-            <Route exact path='/general' element={<News apiKey={this.apiKey} key="general" pageSize={12} country="in" category="general"/>} />
-            <Route exact path='/health' element={<News apiKey={this.apiKey} key="health" pageSize={12} country="in" category="health"/>} />
-            <Route exact path='/science' element={<News apiKey={this.apiKey} key="science" pageSize={12} country="in" category="science"/>} />
-            <Route exact path='/sports' element={<News apiKey={this.apiKey} key="sports" pageSize={12} country="in" category="sports"/>} />
-            <Route exact path='/technology' element={<News apiKey={this.apiKey} key="technology" pageSize={12} country="in" category="technology"/>} />
+            <Route path="/" element={<News apiKey={this.apiKey} key="general" pageSize={12} country="in" category="general"/>}/>
+            <Route path="/business" element={<News apiKey={this.apiKey} key="business" pageSize={12} country="in" category="business"/>}/>
+            <Route path="/entertainment" element={<News apiKey={this.apiKey} key="entertainment" pageSize={12} country="in" category="entertainment"/>} />
+            <Route path="/health" element={<News apiKey={this.apiKey} key="health" pageSize={12} country="in" category="health"/>} />
+            <Route path="/science" element={<News apiKey={this.apiKey} key="science" pageSize={12} country="in" category="science"/>} />
+            <Route path="/sports" element={<News apiKey={this.apiKey} key="sports" pageSize={12} country="in" category="sports"/>} />
+            <Route path="/technology" element={<News apiKey={this.apiKey} key="technology" pageSize={12} country="in" category="technology"/>} />
+            <Route path="*" element={<Navigate to="/"/>}/>
           </Routes>
         </Router>
       </div>
